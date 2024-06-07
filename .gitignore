@@ -1,0 +1,66 @@
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+/Calculator/HELP.md
+/Calculator/target/
+/Calculator/!.mvn/wrapper/maven-wrapper.jar
+/Calculator/!**/src/main/**/target/
+/Calculator/!**/src/test/**/target/
+
+### STS ###
+/Calculator/.apt_generated
+/Calculator/.classpath
+/Calculator/.factorypath
+/Calculator/.project
+/Calculator/.settings
+/Calculator/.springBeans
+/Calculator/.sts4-cache
+
+### IntelliJ IDEA ###
+/Calculator/.idea
+/Calculator/*.iws
+/Calculator/*.iml
+/Calculator/*.ipr
+
+### NetBeans ###
+/Calculator/nbproject/private/
+/Calculator/nbbuild/
+/Calculator/dist/
+/Calculator/nbdist/
+/Calculator/.nb-gradle/
+/Calculator/build/
+/Calculator/!**/src/main/**/build/
+!/Calculator/**/src/test/**/build/
+
+### VS Code ###
+/Calculator/.vscode/
+
+
+
+
+# dependencies
+/calculator-app-ui/node_modules
+/calculator-app-ui/.pnp
+/calculator-app-ui.pnp.js
+
+# testing
+/calculator-app-ui/coverage
+
+# production
+/calculator-app-ui/build
+
+# misc
+/calculator-app-ui.DS_Store
+/calculator-app-ui.env.local
+/calculator-app-ui.env.development.local
+/calculator-app-ui.env.test.local
+/calculator-app-ui.env.production.local
+
+/calculator-app-ui/npm-debug.log*
+/calculator-app-uiyarn-debug.log*
+/calculator-app-uiyarn-error.log*
+/calculator-app-ui/.vscode/
